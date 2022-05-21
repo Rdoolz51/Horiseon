@@ -1,3 +1,13 @@
+Using the instructions below, I cleaned up the Horiseon index.html file and style.css file. I consolidated multiple selectors inside the
+stylesheet, I changed multiple divs to correct semkantic html, I added alt tags to images, and commented where necessary.
+
+
+
+
+
+
+
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
