@@ -1,8 +1,9 @@
 Using the instructions below, I cleaned up the Horiseon index.html file and style.css file. I consolidated multiple selectors inside the
 stylesheet, I changed multiple divs to correct semkantic html, I added alt tags to images, and commented where necessary.
 
+Here is a link to the live page.
 
-
+https://rdoolz51.github.io/Horiseon/
 
 
 
