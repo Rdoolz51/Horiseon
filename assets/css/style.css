@@ -69,14 +69,14 @@ p {
     margin-left: 25px;
 }
 
-/* Styling for the main element and children divs. */
+/* Styling for the main element and children sections. */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-main div {
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -85,11 +85,11 @@ main div {
     color: #ffffff;
 }
 
-main div img {
+main section img {
     max-height: 200px;
 }
 
-main div h2 {
+main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }

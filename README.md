@@ -5,9 +5,9 @@ Here is a link to the live page.
 
 https://rdoolz51.github.io/Horiseon/
 
-![Screenshot of top half of website](url "./assets/images/screenshot-top.jpg")
-![Screenshot of bottom half of website](url "./assets/images/screenshot-bottom.jpg")
 
+<img src ="./assets/images/screenshot-top.jpg" alt="top half of website screenshot">
+<img src ="./assets/images/screenshot-bottom.jpg" alt="bottom half of website screenshot">
 
 
 
